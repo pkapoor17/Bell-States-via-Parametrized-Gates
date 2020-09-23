@@ -1,6 +1,6 @@
 # Bell-States-via-Parametrized-Gates
 
-A sequence of RY, RX and CNOT gates is applied to create a bell pair of (|01>+|10>)$\sqrt{2}$.
+A sequence of RY, RX and CNOT gates is applied to create a bell pair of (|01>+|10>) $\sqrt{2}$.
 Gradient Descnet is used to find the parameters.
 
 ## Results
